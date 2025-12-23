@@ -1,104 +1,66 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sultan Akbaş!
 
-## 👋 Merhaba, ben Sultan Akbaş
-
-🎓 **Yönetim Bilişim Sistemleri** lisans öğrencisiyim.
-💻 Yazılım geliştirme, veri analizi ve görüntü işleme alanlarında projeler üretiyorum.
-🧠 Araştırmayı seven, detaycı ve disiplinli bir çalışma anlayışına sahibim.
+🎓 **Yönetim Bilişim Sistemleri Lisans Öğrencisi**  
+💻 **Yazılım Geliştirme | Veri Analizi | Görüntü İşleme**  
+🧠 Araştırmayı seven, disiplinli ve detay odaklı bir çalışma anlayışına sahibim.
 
 ---
 
 ## 🎯 Kariyer Özeti
-
-Akademik eğitimim boyunca **web sistemleri**, **veri analizi**, **görüntü işleme** ve **yapay zeka** odaklı çalışmalar yaptım.
-Gerçek hayatta karşılaşılan problemlere yazılım çözümleri üretmeyi ve projelerimi uçtan uca tasarlamayı hedefliyorum.
-
----
-
-## 🛠️ Teknolojiler & Araçlar
-
-### 💻 Programlama Dilleri
-
-* Python
-* Java (Android)
-* SQL
-
-### 🌐 Web Teknolojileri
-
-* HTML5
-* CSS3
-* JavaScript
-* Web tabanlı bilgi sistemleri tasarımı
-
-### 📊 Veri & Yapay Zeka
-
-* NumPy, Pandas
-* Makine Öğrenmesi (Naive Bayes)
-* Veri Ön İşleme & Analizi
-
-### 🖼️ Görüntü İşleme
-
-* OpenCV
-* Kenar Tespiti (Canny)
-* Morfolojik İşlemler
-* Hareket Algılama
-
-### 🧰 Araçlar
-
-* Git & GitHub
-* Jupyter Notebook
-* Android Studio
+Web tabanlı bilgi sistemleri, veri analizi, görüntü işleme ve yapay zeka alanlarında projeler geliştiriyorum.  
+Gerçek hayattaki problemlere **uçtan uca yazılım çözümleri** üretmeyi hedefliyorum.
 
 ---
 
-## 📂 Projeler
+## 💻 Teknolojiler & Araçlar
 
-### 🚗 Otopark Doluluk Analiz Sistemi
+### 🔹 Programlama
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Teknolojiler:** Python, OpenCV, NumPy
+### 🔹 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* Görüntü üzerinden boş/dolu park alanlarının tespiti
-* CLAHE ve morfolojik işlemler kullanımı
-* İstatistiksel analiz ile karar verme
+### 🔹 Veri & Yapay Zeka
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 
-### 🎥 Video Üzerinde Hareket Algılama
+### 🔹 Görüntü İşleme
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Teknolojiler:** OpenCV, Python
+### 🔹 Araçlar
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-* Video akışı sırasında hareket eden nesnenin algılanması
-* Nesnenin kareler boyunca takip edilmesi
+---
 
-### 🌦️ Hava Durumu Uygulaması
-
-**Teknolojiler:** API, Python / Mobil Yapı
-
-* Verilerin API üzerinden alınması
-* Uygulama yapısının satır satır açıklamalı tasarımı
-
-### 🌐 Web Tabanlı Bilgi Sistemi
-
-**Teknolojiler:** HTML, CSS, JavaScript
-
-* Kullanıcı odaklı arayüz tasarımı
-* Dinamik sayfa yapıları
-* Veri giriş ve listeleme sistemleri
-
-### 📊 Veri Analizi – Hypothyroid Dataset
-
-**Teknolojiler:** Weka, Naive Bayes
-
-* 200-fold cross validation
-* Model performans analizi
-
+## 🌟 Projeler
+- 🚗 **Otopark Doluluk Analiz Sistemi** – Python, OpenCV  
+- 🎥 **Video Üzerinde Hareket Algılama** – Python, OpenCV  
+- 🌦️ **Hava Durumu Uygulaması** – API, Python / Mobil  
+- 🌐 **Web Tabanlı Bilgi Sistemi** – HTML, CSS, JavaScript    
+- 📱 **Telefon Rehberi Uygulaması (Android)** – Kotlin
+  
 ---
 
 ## 🚀 Şu Anda
+- Görüntü işleme projeleri geliştiriyorum   
+---
 
-* Görüntü işleme projeleri geliştiriyorum
-* Veri analizi ve makine öğrenmesi alanında kendimi ilerletiyorum
+## 📊 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbassultan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbassultan&layout=compact&theme=radical)
 
 ---
 
-## 📫 İletişim
+## 📫 Bana Ulaş
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Akbaş-blue?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/sultan-akbaş-599a39294)  
+[![Instagram](https://img.shields.io/badge/Instagram-sultn0__0-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/sultn0_0?igsh=ZTZ2OHBzbGdoNXF2)  
+[![Email](https://img.shields.io/badge/Email-akbassultan29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akbassultan29@gmail.com)
 
-* GitHub: [https://github.com/kullaniciadin](https://github.com/kullaniciadin)
